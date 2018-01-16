@@ -1,0 +1,2 @@
+# Stockwatcher
+GWT+Spring
